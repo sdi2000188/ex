@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: hello-world
+  name: ex
   description: A demo service in the repository `hello_world` managed by the user `sdi2000188`.
   annotations:
     github.com/project-slug: sdi2000188/ex
